@@ -1,3 +1,8 @@
+<p align="center">
+<img src="PRO (1).png" alt="Recaho POS Standard Interface on multiple devices" width="700"/>
+</p>
+
+
 # Recaho POS Pro: Enterprise Restaurant Management System
 
 Recaho POS Pro is a full-scale restaurant management system tailored for enterprise-level restaurants, central kitchens, and large multi-outlet brands. It provides a complete suite of advanced POS modules with end-to-end inventory and production control.
